@@ -2,7 +2,7 @@ import React from "react";
 
 function TodoLoading() {
     return (
-        <p>Estamso Cargando, no desesperes peréz...</p>
+        <p>Estamos Cargando, no desesperes peréz...</p>
     );
 }
 
